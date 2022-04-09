@@ -19,4 +19,4 @@ Outcomes of this project are as follows:
 3. Benefit with reduced cost and accurate identification
 4. An advancement in existing models will fill a gap in knowledge and lay a base for the application of specific methods to large scale in the healthcare sector
 
-The model cannot be uploaded to GitHub because of the size limitations. Here is the drive link to the trained model which should be put into the project directory before running the app.py file. Drive link: https://drive.google.com/file/d/1GNx51_CUvXtMRv7RzPob6YbM86vMtwk6/view?usp=sharing
+The model cannot be uploaded to GitHub because of the size limitations. Here is the drive link to the trained model which should be put into the project directory before running the app.py file. Drive link: https://drive.google.com/drive/folders/1BU5t9kFVwzKa5uw3dvzO6ft75Cdpp900?usp=sharing
